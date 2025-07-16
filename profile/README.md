@@ -1,7 +1,5 @@
 # LunacyStudio
 
-![LunacyStudio Logo](https://github.com/LunacyStudio-MC/.github/blob/main/assets/photo_2025-07-05_14-50-37(2).jpg)  
-
 [English](#english) | [Русский](#russian)
 
 ---
